@@ -8,7 +8,7 @@
         "interfaces" : [
           {
             "name" : "odbrecord",
-            "type" : "recorder",
+            "type" : "player",
             "serialPort" : "COM11",
             "options" : {
                 "baudrate": 9600
